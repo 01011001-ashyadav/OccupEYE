@@ -6,8 +6,13 @@
 Youtube Link:https://youtu.be/fmjQZ8TWb00
 
 
-\n
+
 UI DESIGN IMAGES:
+
+
+
+
+
 <img width="275" alt="Screenshot 2023-05-17 at 10 10 56 PM" src="https://github.com/YashSleepyBoi/OccupEye/assets/114037589/5d564ded-f448-4f13-bb56-551bb7b94538">
 <img width="276" alt="Screenshot 2023-05-17 at 10 11 05 PM" src="https://github.com/YashSleepyBoi/OccupEye/assets/114037589/ec100c47-7aa1-48e3-92d5-792e4d67ca30">
 <img width="279" alt="Screenshot 2023-05-17 at 10 11 18 PM" src="https://github.com/YashSleepyBoi/OccupEye/assets/114037589/fd3a0b23-d655-49aa-9d84-e84b7aa689a9">
